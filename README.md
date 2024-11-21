@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 * HTML
 * CSS
 * JS
+* Linux_command
